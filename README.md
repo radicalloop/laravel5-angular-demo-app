@@ -1,5 +1,5 @@
 # Laravel5 + AngularJS Demo App
-This project is a demo application using Laravel 5 and AngualarJS. This app uses REST API made in Laravel5.
+This project is a demo application using Laravel 5 and AngualarJS. It uses REST API made in Laravel5 and AngularJS in front-end.
 
 It includes:
 - Token based REST API for Login/Logout
